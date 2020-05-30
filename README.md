@@ -4,4 +4,4 @@
 ### 2. Then you will have to deploy the PupperCoin sol file
 ### 3. Send PCoins to the Wallet via Metamask
 ### 4. You will then get a message from Metamask, in order to confirm the transaction. 
-### 5. In order to make sure the PCoin made its way into the MyCyrpto wallet.  You will have to copy the address and enter it into the view address tab of MyCyrpto.  You will then see any of the PCoins that you have created. 
+### 5. In order to make sure the PCoins made its way into the MyCyrpto wallet.  You will have to copy the address and enter it into the view address tab of MyCyrpto.  You will then see any of the PCoins that you have created. 
